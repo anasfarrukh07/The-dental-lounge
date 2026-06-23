@@ -1,0 +1,6 @@
+{
+  "name": "The Digital Lounge",
+  "description": "A premium digital-first dental care platform featuring live scheduling, patient queues, and an admin content-manager dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
